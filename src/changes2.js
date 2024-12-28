@@ -1,2 +1,7 @@
 console.log("Hello!");
-console.log("Version 1");
+let i = 0;
+while(i<10){
+    console.log(i + " ");
+    i++;
+}
+console.log("Version 12");
